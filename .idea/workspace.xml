@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42c67c13-b6d2-403f-9d03-bc07e6d90323" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/addVolunteerTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/addVolunteerTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/add_item_ATS.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/add_item_ATS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/change_password_ATS.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/change_password_ATS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/change_password_fail_ATS.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/change_password_fail_ATS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/deleteClientTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/deleteClientTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/deleteVounteerTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/deleteVounteerTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/delete_item_ATS.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/delete_item_ATS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/editClientTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/editClientTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/editVolunteerTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/editVolunteerTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/edit_item_ATS.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/edit_item_ATS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reportTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/reportTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reset_password_ATS.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/reset_password_ATS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reset_password_fail_ATS.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/reset_password_fail_ATS.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/8210f18t2test$Unittests_for_client_search_test_ATS_Blog_ATS_test_blog.coverage" NAME="Unittests for client_search_test_ATS.Blog_ATS.test_blog Coverage Results" MODIFIED="1543855528903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/8210f18t2test$Unittests_for_add_item_ATS_GS_ATS.coverage" NAME="Unittests for add_item_ATS.GS_ATS Coverage Results" MODIFIED="1543855399567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/8210f18t2test$Unittests_for_client_register_test_ATS_Blog_ATS.coverage" NAME="Unittests for client_register_test_ATS.Blog_ATS Coverage Results" MODIFIED="1543855490079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/8210f18t2test$Unittests_for_reportTest_reportTest.coverage" NAME="Unittests for reportTest.reportTest Coverage Results" MODIFIED="1543855575758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/8210f18t2test$Unittests_in_login_logout_test_ATS_py.coverage" NAME="Unittests in login_logout_test_ATS.py Coverage Results" MODIFIED="1543808828483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1540218879">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1164023105">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="30" />
+          <entry key="js" value="2" />
+          <entry key="py" value="89" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="30" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Python" value="89" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="448" />
+          <entry key="py" value="982" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="448" />
+          <entry key="Python" value="982" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1879001406">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="56" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="56" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>volunteer</find>
+      <find>cleint</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/core/employees/volunteer.py" />
+        <option value="$PROJECT_DIR$/volunteers/templates/volunteers/client_add.html" />
+        <option value="$PROJECT_DIR$/volunteers/templates/volunteers/client_delete.html" />
+        <option value="$PROJECT_DIR$/volunteers/urls.py" />
+        <option value="$PROJECT_DIR$/volunteers/admin.py" />
+        <option value="$PROJECT_DIR$/core/templates/base.html" />
+        <option value="$PROJECT_DIR$/volunteers/templates/volunteers/client_edit.html" />
+        <option value="$PROJECT_DIR$/volunteers/views.py" />
+        <option value="$PROJECT_DIR$/volunteers/forms.py" />
+        <option value="$PROJECT_DIR$/volunteers/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/volunteers/migrations/0002_auto_20181104_2154.py" />
+        <option value="$PROJECT_DIR$/volunteers/templates/volunteers/client_list.html" />
+        <option value="$PROJECT_DIR$/volunteers/models.py" />
+        <option value="$PROJECT_DIR$/foodpantry/settings.py" />
+        <option value="$PROJECT_DIR$/tests/client_search_test_ATS.py" />
+        <option value="$PROJECT_DIR$/tests/addVolunteerTest.py" />
+        <option value="$PROJECT_DIR$/tests/add_item_ATS.py" />
+        <option value="$PROJECT_DIR$/tests/change_password_ATS.py" />
+        <option value="$PROJECT_DIR$/tests/change_password_fail_ATS.py" />
+        <option value="$PROJECT_DIR$/tests/delete_item_ATS.py" />
+        <option value="$PROJECT_DIR$/tests/deleteClientTest.py" />
+        <option value="$PROJECT_DIR$/tests/deleteVounteerTest.py" />
+        <option value="$PROJECT_DIR$/tests/edit_item_ATS.py" />
+        <option value="$PROJECT_DIR$/tests/editClientTest.py" />
+        <option value="$PROJECT_DIR$/tests/editVolunteerTest.py" />
+        <option value="$PROJECT_DIR$/tests/reportTest.py" />
+        <option value="$PROJECT_DIR$/tests/reset_password_ATS.py" />
+        <option value="$PROJECT_DIR$/tests/reset_password_fail_ATS.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="8210f18t2test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="8210f18t2test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="8210f18t2test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="8210f18t2test" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kelley\Desktop\Assign5S2\8210f18t2\volunteers\templates\volunteers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for reportTest.reportTest">
+    <configuration name="8210f18t2" type="Python.DjangoServer" factoryName="Django server">
+      <module name="8210f18t2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for add_item_ATS.GS_ATS" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="8210f18t2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;add_item_ATS.GS_ATS&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for client_register_test_ATS.Blog_ATS" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="8210f18t2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;client_register_test_ATS.Blog_ATS&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for client_search_test_ATS.Blog_ATS.test_blog" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="8210f18t2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;client_search_test_ATS.Blog_ATS.test_blog&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for reportTest.reportTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="8210f18t2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;reportTest.reportTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in login_logout_test_ATS.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="8210f18t2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/login_logout_test_ATS.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.8210f18t2" />
+      <item itemvalue="Python tests.Unittests for client_search_test_ATS.Blog_ATS.test_blog" />
+      <item itemvalue="Python tests.Unittests in login_logout_test_ATS.py" />
+      <item itemvalue="Python tests.Unittests for client_register_test_ATS.Blog_ATS" />
+      <item itemvalue="Python tests.Unittests for add_item_ATS.GS_ATS" />
+      <item itemvalue="Python tests.Unittests for reportTest.reportTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for reportTest.reportTest" />
+        <item itemvalue="Python tests.Unittests for client_search_test_ATS.Blog_ATS.test_blog" />
+        <item itemvalue="Python tests.Unittests for client_register_test_ATS.Blog_ATS" />
+        <item itemvalue="Python tests.Unittests for add_item_ATS.GS_ATS" />
+        <item itemvalue="Python tests.Unittests in login_logout_test_ATS.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42c67c13-b6d2-403f-9d03-bc07e6d90323" name="Default Changelist" comment="" />
+      <created>1539553217939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539553217939</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_client_search_test_ATS_Blog_ATS_test_blog - 2018.12.01 at 13h 24m 39s.xml">
+      <configuration name="Unittests for client_search_test_ATS.Blog_ATS.test_blog" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_client_search_test_ATS_Blog_ATS_test_blog - 2018.12.01 at 13h 25m 50s.xml">
+      <configuration name="Unittests for client_search_test_ATS.Blog_ATS.test_blog" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_logout_test_ATS_py - 2018.12.02 at 21h 48m 53s.xml">
+      <configuration name="Unittests in login_logout_test_ATS.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_client_register_test_ATS_Blog_ATS - 2018.12.02 at 21h 50m 51s.xml">
+      <configuration name="Unittests for client_register_test_ATS.Blog_ATS" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_add_item_ATS_GS_ATS - 2018.12.03 at 10h 44m 16s.xml">
+      <configuration name="Unittests for add_item_ATS.GS_ATS" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_client_register_test_ATS_Blog_ATS - 2018.12.03 at 10h 45m 14s.xml">
+      <configuration name="Unittests for client_register_test_ATS.Blog_ATS" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_client_search_test_ATS_Blog_ATS_test_blog - 2018.12.03 at 10h 46m 04s.xml">
+      <configuration name="Unittests for client_search_test_ATS.Blog_ATS.test_blog" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_reportTest_reportTest - 2018.12.03 at 10h 46m 44s.xml">
+      <configuration name="Unittests for reportTest.reportTest" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="2" width="1378" height="733" extended-state="1" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18133536" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.32833335" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/clients/migrations/0001_initial.py" />
+    <entry file="file://$PROJECT_DIR$/clients/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/employees/volunteer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/migrations/0001_initial.py" />
+    <entry file="file://$PROJECT_DIR$/core/templates/core.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/template.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/templates/administrator/volunteer_list.html" />
+    <entry file="file://$PROJECT_DIR$/core/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="84" column="37" lean-forward="true" selection-start-line="84" selection-start-column="37" selection-end-line="84" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteers/templates/volunteers/client_delete.html" />
+    <entry file="file://$PROJECT_DIR$/volunteers/templates/volunteers/client_edit.html" />
+    <entry file="file://$PROJECT_DIR$/administrator/views.py" />
+    <entry file="file://$PROJECT_DIR$/core/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/registration/signup_form.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/forms.py" />
+    <entry file="file://$PROJECT_DIR$/volunteers/templates/volunteers/client_add.html" />
+    <entry file="file://$PROJECT_DIR$/administrator/models.py" />
+    <entry file="file://$PROJECT_DIR$/volunteers/admin.py" />
+    <entry file="file://$PROJECT_DIR$/volunteers/apps.py" />
+    <entry file="file://$PROJECT_DIR$/volunteers/forms.py" />
+    <entry file="file://$PROJECT_DIR$/volunteers/tests.py" />
+    <entry file="file://$PROJECT_DIR$/volunteers/views.py" />
+    <entry file="file://$PROJECT_DIR$/clients/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/templates/clients/customer_form.html" />
+    <entry file="file://$PROJECT_DIR$/volunteers/urls.py" />
+    <entry file="file://$PROJECT_DIR$/administrator/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/volunteers/migrations/0002_auto_20181104_2154.py" />
+    <entry file="file://$PROJECT_DIR$/administrator/migrations/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/administrator/migrations/0001_initial.py" />
+    <entry file="file://$PROJECT_DIR$/volunteers/migrations/0001_initial.py" />
+    <entry file="file://$PROJECT_DIR$/volunteers/migrations/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/volunteers/migrations/0002_auto_20181104_2213.py" />
+    <entry file="file://$PROJECT_DIR$/volunteers/templates/volunteers/client_list.html" />
+    <entry file="file://$PROJECT_DIR$/volunteers/models.py" />
+    <entry file="file://$PROJECT_DIR$/foodpantry/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="95" selection-end-column="6" />
+          <folding>
+            <element signature="e#311#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/change_password_ATS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/change_password_fail_ATS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/delete_item_ATS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/deleteClientTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/deleteVounteerTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/edit_item_ATS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="93" selection-start-line="8" selection-start-column="93" selection-end-line="8" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/editClientTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/editVolunteerTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/login_logout_test_ATS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/reset_password_ATS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/reset_password_fail_ATS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/client_register_test_ATS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/addVolunteerTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="94" selection-start-line="9" selection-start-column="94" selection-end-line="9" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/add_item_ATS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="93" selection-start-line="8" selection-start-column="93" selection-end-line="8" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/reportTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/client_search_test_ATS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="39" selection-start-line="39" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
